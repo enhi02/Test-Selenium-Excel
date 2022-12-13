@@ -1,0 +1,5 @@
+C:\Users\Windows\OneDrive\Desktop\DATN\TestAll\excel\obj\Debug\net5.0\excel.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Desktop\DATN\TestAll\excel\obj\Debug\net5.0\excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Desktop\DATN\TestAll\excel\obj\Debug\net5.0\excel.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Desktop\DATN\TestAll\excel\obj\Debug\net5.0\excel.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Desktop\DATN\TestAll\excel\obj\Debug\net5.0\excel.csproj.CoreCompileInputs.cache

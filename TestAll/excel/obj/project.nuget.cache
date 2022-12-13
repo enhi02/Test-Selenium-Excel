@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycsA7pm6eUlVms2McgmhxfvD9jd6Z2F3pK5YwvRFh8IA2NgdgOBuXciSnnxzuH8NnveBglsjCMQa2qoF+3mjPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows\\OneDrive\\Desktop\\DATN\\TestAll\\excel\\excel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
